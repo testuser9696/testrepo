@@ -2,6 +2,8 @@
 This is my first repository
 This is Sushant's repository.
 
+# Some basic commands:
+```
 ---------------------------
 git status -> gets the status of the repo branch you are in
 git branch -a -> gets the list of all branches, remote and local
@@ -16,3 +18,4 @@ git commit
 i -> insert
 esc+:wq+enter -> w: write, q: quit
 ---------------------------
+```
